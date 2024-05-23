@@ -131,10 +131,10 @@ img {
 
 /* home  */
 #home {
-  background-image: url(../images/file_1367x2048_002203-removebg-preview.png);
-  background-position: 80% bottom;
+  background-image: url(../images/file.png);
+  background-position: 100% bottom;
   background-repeat: no-repeat;
-  background-size: 30%;
+  background-size: 50%;
 }
 
 /* services  */
@@ -252,15 +252,15 @@ footer li,
 footer li a {
   color: rgba(255, 255, 255, 0.7);
 }
-footer ul{
+footer ul {
   list-style: none;
   padding: 0;
 }
-.footer-top{
+.footer-top {
   padding-bottom: 40px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
-.footer-bottom{
+.footer-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
 }
